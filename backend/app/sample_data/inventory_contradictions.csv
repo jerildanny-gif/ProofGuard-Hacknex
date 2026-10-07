@@ -1,0 +1,12 @@
+sku_id,item_name,category,warehouse_location,reported_inventory,physical_audit_inventory,unit_cost_usd,discrepancy_reason
+SKU-501,Fiber Optic Cable 50m,Networking,Warehouse-East,450,450,18.50,None
+SKU-502,PoE Switch 24-Port,Networking,Warehouse-West,85,12,240.00,Unaccounted shrinkage
+SKU-503,Cat6 Reel 305m,Cabling,Warehouse-East,120,,45.00,Audit pending
+SKU-504,Server Rack 42U,Infrastructure,Warehouse-Central,15,15,620.00,None
+SKU-502,PoE Switch 24-Port,Networking,Warehouse-West,85,85,240.00,Conflicting record from legacy ERP
+SKU-505,Patch Panel 48-Port,Networking,Warehouse-East,,65,32.00,Stock without report
+SKU-506,SFP+ Transceiver 10G,Networking,Warehouse-Central,300,-10,22.00,System error negative stock
+SKU-507,Uninterruptible PSU,Infrastructure,Warehouse-West,40,40,310.00,None
+SKU-508,Crimping Tool Kit,Tools,Warehouse-East,75,70,15.50,Damaged in transit
+SKU-509,KVM Console Drawer,Infrastructure,Warehouse-Central,8,8,490.00,None
+SKU-504,Server Rack 42U,Infrastructure,Warehouse-Central,15,15,620.00,None

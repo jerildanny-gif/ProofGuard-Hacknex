@@ -1,0 +1,14 @@
+patient_id,cohort,age,gender,baseline_marker,week12_marker,systolic_bp,reported_relief
+PT-901,Placebo,45,F,142.5,138.0,120,Slight
+PT-902,Drug-A,52,M,168.0,112.5,128,Significant
+PT-903,Drug-B,-8,M,155.0,,135,None
+PT-904,Drug-A,61,F,,98.4,142,Significant
+PT-905,Placebo,39,M,130.0,131.0,999,None
+PT-906,Drug-B,48,F,160.0,122.0,118,Moderate
+PT-907,Drug-A,55,M,175.5,108.0,125,Significant
+PT-908,Unknown,,F,150.0,145.0,130,None
+PT-909,Drug-B,63,F,164.2,120.1,122,Significant
+PT-902,Drug-A,52,M,168.0,112.5,128,Significant
+PT-910,Placebo,41,M,138.0,139.5,115,None
+PT-911,Drug-B,58,M,159.0,,124,Moderate
+PT-912,Drug-A,47,F,171.0,105.0,-5,Significant

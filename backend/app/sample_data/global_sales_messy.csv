@@ -1,0 +1,21 @@
+order_id,date,customer_country,product,quantity,unit_price,shipping_weight,discount_pct,status
+ORD-1001,2024-01-15,USA,Cloud Server Gen3,5,$120.00,4.2kg,10%,Completed
+ORD-1002,2024-01-16,Germany,Storage Pod X,2,€95.50,11.0lbs,5%,Completed
+ORD-1003,2024-01-18,UK,Network Router Pro,1,£110.00,1.8kg,0%,Pending
+ORD-1004,2024-01-19,USA,Firewall Appliance,4,150 USD,8.5lbs,,Completed
+ORD-1005,2024-01-20,France,Cloud Server Gen3,10,€92.00,4.2kg,15%,Completed
+ORD-1001,2024-01-15,USA,Cloud Server Gen3,5,$120.00,4.2kg,10%,Completed
+ORD-1006,2024-01-22,Japan,Developer Workstation,1,¥18500,15.2kg,0%,Completed
+ORD-1007,2024-01-23,USA,Storage Pod X,,$95.00,11.0lbs,N/A,Processing
+ORD-1008,2024-01-25,UK,Security Token,50,£12.50,450g,20%,Completed
+ORD-1009,2024-01-26,Germany,Cloud Server Gen3,3,€98.00,4.2kg,?,Shipped
+ORD-1010,2024-01-28,India,Network Router Pro,2,₹8500,1.8kg,5%,Completed
+ORD-1011,2024-01-29,USA,Developer Workstation,2,$1400.00,32lbs,10%,Completed
+ORD-1012,2024-02-01,Canada,Firewall Appliance,1,CAD 195.00,8.5lbs,,Cancelled
+ORD-1013,2024-02-02,USA,Cloud Server Gen3,-2,$120.00,4.2kg,0%,Returned
+ORD-1014,2024-02-04,Germany,Storage Pod X,4,€95.00,5.0kg,10%,Completed
+ORD-1005,2024-01-20,France,Cloud Server Gen3,10,€92.00,4.2kg,15%,Completed
+ORD-1015,2024-02-07,UK,Network Router Pro,,£110.00,,5%,Pending
+ORD-1016,2024-02-09,USA,Developer Workstation,1,$1450.00,14.5kg,0%,Completed
+ORD-1017,2024-02-11,France,Security Token,100,€14.00,1.0kg,25%,Completed
+ORD-1018,2024-02-12,USA,Firewall Appliance,3,$155.00,8.5lbs,unknown,Completed
