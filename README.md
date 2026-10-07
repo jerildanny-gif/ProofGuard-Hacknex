@@ -1,4 +1,5 @@
 # ProofGuard-Hacknex
+<<<<<<< HEAD
 
 This repository contains both the frontend (React/Vite) and backend (FastAPI) for the application.
 
@@ -63,3 +64,6 @@ The frontend is built with React, Tailwind CSS, and Vite.
    npm run dev
    ```
    *The Vite server will start. Check your terminal output for the local URL (usually `http://localhost:5173`).*
+=======
+**Proof-Carrying Data Analyst** is an Agentic GenAI system that analyzes data, generates executable code, verifies the results, and provides trustworthy answers with supporting evidence. It is designed to handle messy data, detect errors and ambiguity, and ensure that analytical results are correct, reproducible, and verifiable.
+>>>>>>> d499a18c9e59a1d71317435fe726800c395b3227
